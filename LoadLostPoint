@@ -1,5 +1,6 @@
 --load ui
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/UI'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/Checking'))()
 
 wait(0.05)
 --load game1
@@ -10,3 +11,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-
 wait(0.05)
 --load game3
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList3'))()
+
