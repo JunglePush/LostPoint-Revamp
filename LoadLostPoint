@@ -1,4 +1,14 @@
 --load ui
+
+local children = game.CoreGui:GetChildren()
+
+
+for _,v in pairs(children) do
+    if v.Name == "LostPoint" then
+        v:Destroy()
+    end
+end
+wait(0.02)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/UI'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/Checking'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/JOIN'))()
