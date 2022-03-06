@@ -14,18 +14,13 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/JOIN'))()
 
 
-wait(0.05)
 --load game1
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList1'))()
-wait(0.05)
 --load game2
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList2'))()
-wait(0.05)
 --load game3
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList3'))()
-wait(0.05)
 --load game4
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList4'))()
-wait(0.05)
 --load game5
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList5'))()
