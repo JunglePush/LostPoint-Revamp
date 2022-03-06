@@ -23,4 +23,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-
 --load game4
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList4'))()
 --load game5
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/GameList5'))()
