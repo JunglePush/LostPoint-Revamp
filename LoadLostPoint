@@ -11,7 +11,6 @@ end
 wait(0.02)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/UI'))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/Checking'))()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/JunglePush/LostPoint-Revamp/main/JOIN'))()
 
 
 --load game1
